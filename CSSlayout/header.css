@@ -1,1 +1,28 @@
 /*tuyen*/
+#header {
+  padding: 15px 50px;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  flex: 1;
+}
+
+#header ul {
+  flex: 3;
+  display: flex;
+  align-items: center;
+}
+
+#header form {
+  flex: 1;
+}
+#header ul li {
+  list-style-type: none;
+  margin-right: 10px;
+}
+#header a {
+  text-decoration: none;
+}
