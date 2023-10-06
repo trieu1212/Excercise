@@ -28,9 +28,9 @@
     transition: all 0.8s
   }
   
-  .btn-1:active:after {
+  /* .btn-1:active:after {
     padding: 0;
     margin: 0;
     opacity: 1;
     transition: 0s
-  }
+  } */
