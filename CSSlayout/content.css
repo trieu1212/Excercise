@@ -1,0 +1,8 @@
+/*Trieu*/
+#content {
+    display: flex;
+    justify-content: space-between;
+}
+#content > .column{
+    padding-right: 15px;
+}
